@@ -1,7 +1,6 @@
 # Espinosa_Dice_Fall_24_IW
 
-This repository contains the core code and data for my Fall '24 IW project, Predicting Future Drug Trafficking Hotspots in Colombia. 
-
+This repository contains the core code and data for my Fall '24 IW project at Princeton University, Predicting Future Drug Trafficking Hotspots in Colombia. 
 
 Data: contains final data used, in addition to preprocessing code. This data was aggreated from several sources (CEDE, Colombian National Police Department, DANE, UNODC, GDL and Monitor Ciudadano). 
 
